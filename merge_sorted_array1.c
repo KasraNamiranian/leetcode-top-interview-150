@@ -1,5 +1,5 @@
-#Another answer for leetcode top interview 150 the question number 88 (merged sorted array) written by Kasra Namiranian.
-#It's better than perivious one.
+//Another answer for leetcode top interview 150 the question number 88 (merged sorted array) written by Kasra Namiranian.
+//It's better than perivious one.
 
 void merge(int* nums1, int nums1Size, int m, int* nums2, int nums2Size, int n) {
     int n1p = m-1;

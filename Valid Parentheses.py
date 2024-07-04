@@ -1,4 +1,4 @@
-#The answer of leetcode top 1nterview 150 the question number 20 valid parentheses written by Kasra Namiranian.
+#The answer of leetcode top 1nterview 150 the question number 20 (valid parentheses) written by Kasra Namiranian.
 
 class Solution:
     def isValid(self, s: str) -> bool:

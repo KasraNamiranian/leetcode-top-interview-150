@@ -1,3 +1,7 @@
+#Another answer for leetcode top interview 150 the question number 88 (merged sorted array) written by Kasra Namiranian.
+#It's the merge_sorted_array1 written in python.
+
+
 class Solution:
     def merge(self, nums1: list[int], m: int, nums2: list[int], n: int) -> None:
         n1p = m - 1

@@ -1,3 +1,5 @@
+#The answer of leetcode top 1nterview 150 the question number 26 (remove duplicates from sorted array) written by Kasra Namiranian.
+
 class Solution:
     def removeDuplicates(self, nums: List[int]) -> int:
         if len(nums) < 2:
